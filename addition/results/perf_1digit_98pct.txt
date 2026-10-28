@@ -1,0 +1,110 @@
+Chargement du modèle Étape 1...
+Loading weights: 100%|██████████████████████████████| 148/148 [00:00<00:00, 20084.67it/s]
+
+============================================================
+     CORRECTION BENCHMARK : EXTRACTION SOUPLO-LOGIQUE        
+============================================================
+[✅] Test 001/100 | 4 + 0 = 4 | Bruts IA: [RESULT] 4  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 4
+[✅] Test 002/100 | 4 + 9 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1 [RESULT] 1  [RESULT] 1 -> Capturé: 13
+[✅] Test 003/100 | 5 + 1 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 9  = [RESULT] 1 0  = [RESULT] 9 -> Capturé: 6
+[✅] Test 004/100 | 8 + 0 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 2  = [RESULT] 1  [RESULT] 1 -> Capturé: 8
+[❌] Test 005/100 | 8 + 9 = 17 | Bruts IA: [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] -> Capturé: 18
+[❌] Test 006/100 | 9 + 8 = 17 | Bruts IA: [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] -> Capturé: 18
+[✅] Test 007/100 | 0 + 5 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 5  = [RESULT] 5   = [RESULT] 5 -> Capturé: 5
+[✅] Test 008/100 | 2 + 2 = 4 | Bruts IA: [RESULT] 4  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 4
+[✅] Test 009/100 | 6 + 2 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 1 [RESULT] 9  = [RESULT] 1 0 [RESULT] -> Capturé: 8
+[✅] Test 010/100 | 7 + 1 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 0  = [RESULT] 9   = [RESULT] 1 -> Capturé: 8
+[✅] Test 011/100 | 4 + 2 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 9  = [RESULT] 1 1 [RESULT] 9 -> Capturé: 6
+[✅] Test 012/100 | 3 + 6 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 2  = [RESULT] 1 [RESULT] 9 -> Capturé: 9
+[✅] Test 013/100 | 5 + 3 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 1  = [RESULT] 9    = [RESULT] -> Capturé: 8
+[✅] Test 014/100 | 8 + 2 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 7  = [RESULT] 1 0  [RESULT] 8 -> Capturé: 10
+[✅] Test 015/100 | 9 + 1 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 8  = [RESULT] 1 0 [RESULT] 1 0 -> Capturé: 10
+[✅] Test 016/100 | 0 + 7 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 8  = [RESULT] 9   = [RESULT] 1 1 -> Capturé: 7
+[✅] Test 017/100 | 2 + 4 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0  = [RESULT] 6 -> Capturé: 6
+[✅] Test 018/100 | 1 + 8 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 0  = [RESULT] 9  = [RESULT] 1 0 -> Capturé: 9
+[✅] Test 019/100 | 6 + 4 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 6  = [RESULT] 9  = [RESULT] 1 0 -> Capturé: 10
+[✅] Test 020/100 | 7 + 3 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 7  = [RESULT] 1 0   [RESULT] 8 -> Capturé: 10
+[✅] Test 021/100 | 3 + 8 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 6 [RESULT] 1   = [RESULT] 9 -> Capturé: 11
+[✅] Test 022/100 | 5 + 5 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 10
+[✅] Test 023/100 | 8 + 4 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 1    [RESULT] 9   = [RESULT] -> Capturé: 12
+[✅] Test 024/100 | 9 + 3 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 1 0 [RESULT] 8  = [RESULT] 1 0 -> Capturé: 12
+[✅] Test 025/100 | 0 + 0 = 0 | Bruts IA: [RESULT] 0  = [RESULT] 0  = [RESULT] 0  = [RESULT] 0  = -> Capturé: 0
+[✅] Test 026/100 | 0 + 9 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 0  = [RESULT] 1 0   = [RESULT] -> Capturé: 9
+[✅] Test 027/100 | 6 + 6 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 9  = [RESULT] 1 2 [RESULT] 1 -> Capturé: 12
+[✅] Test 028/100 | 7 + 5 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 9  = [RESULT] 1 2  = [RESULT] 1 -> Capturé: 12
+[✅] Test 029/100 | 3 + 1 = 4 | Bruts IA: [RESULT] 4  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 4
+[✅] Test 030/100 | 5 + 7 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 1 [RESULT] 8  = [RESULT] 1 0 -> Capturé: 12
+[✅] Test 031/100 | 9 + 5 = 14 | Bruts IA: [RESULT] 1 4  = [RESULT] 1 3  = [RESULT] 1 2  [RESULT] 1 -> Capturé: 14
+[✅] Test 032/100 | 0 + 2 = 2 | Bruts IA: [RESULT] 2 [RESULT] 2  = [RESULT] 2   = [RESULT] 2 -> Capturé: 2
+[✅] Test 033/100 | 1 + 3 = 4 | Bruts IA: [RESULT] 4  = [RESULT] 5  = [RESULT] 6  = [RESULT] 8  = -> Capturé: 4
+[✅] Test 034/100 | 7 + 7 = 14 | Bruts IA: [RESULT] 1 4  = [RESULT] 1 [RESULT] 1    [RESULT] 1 -> Capturé: 14
+[✅] Test 035/100 | 3 + 3 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 9  = [RESULT] 1 1  = [RESULT] 9 -> Capturé: 6
+[✅] Test 036/100 | 5 + 0 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 8  = [RESULT] 1 0   = [RESULT] 8 -> Capturé: 5
+[✅] Test 037/100 | 5 + 9 = 14 | Bruts IA: [RESULT] 1 4  = [RESULT] 1 [RESULT] 1   [RESULT] 1 -> Capturé: 14
+[✅] Test 038/100 | 9 + 7 = 16 | Bruts IA: [RESULT] 1 6  = [RESULT] 1 5  = [RESULT] 1 4  = [RESULT] -> Capturé: 16
+[✅] Test 039/100 | 1 + 5 = 6 | Bruts IA: [RESULT] 6 [RESULT] 7  = [RESULT] 9    = [RESULT] 1 0 -> Capturé: 6
+[✅] Test 040/100 | 6 + 1 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0   = [RESULT] 8   = [RESULT] -> Capturé: 7
+[✅] Test 041/100 | 7 + 0 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0 [RESULT] 8  = [RESULT] 1 0 [RESULT] -> Capturé: 7
+[✅] Test 042/100 | 7 + 9 = 16 | Bruts IA: [RESULT] 1 6  = [RESULT] 1 5 [RESULT] 1 3  = [RESULT] 1 2 -> Capturé: 16
+[✅] Test 043/100 | 3 + 5 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 0 [RESULT] 6  = [RESULT] 9 -> Capturé: 8
+[✅] Test 044/100 | 5 + 2 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0  = [RESULT] 8   = [RESULT] 1 -> Capturé: 7
+[✅] Test 045/100 | 4 + 4 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 1 [RESULT] 8  = [RESULT] 1 0 -> Capturé: 8
+[✅] Test 046/100 | 9 + 0 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 5 [RESULT] 1  = [RESULT] 1 2 [RESULT] -> Capturé: 9
+[✅] Test 047/100 | 9 + 9 = 18 | Bruts IA: [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] 1 8  = [RESULT] -> Capturé: 18
+[✅] Test 048/100 | 1 + 7 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 0  = [RESULT] 5   = [RESULT] 6 -> Capturé: 8
+[✅] Test 049/100 | 2 + 6 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 1 0  = [RESULT] 6  = [RESULT] 8 -> Capturé: 8
+[✅] Test 050/100 | 7 + 2 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 2  = [RESULT] 1 0 [RESULT] 9 -> Capturé: 9
+[✅] Test 051/100 | 3 + 7 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 10
+[✅] Test 052/100 | 5 + 4 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 3  = [RESULT] 1 0 [RESULT] 8 -> Capturé: 9
+[✅] Test 053/100 | 4 + 6 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 6  = [RESULT] 8  = [RESULT] 1 0 -> Capturé: 10
+[✅] Test 054/100 | 9 + 2 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 9  = [RESULT] 1 1 [RESULT] 1  = -> Capturé: 11
+[✅] Test 055/100 | 8 + 6 = 14 | Bruts IA: [RESULT] 1 4  = [RESULT] 1 2  = [RESULT] 1 0 [RESULT] 8 -> Capturé: 14
+[✅] Test 056/100 | 1 + 0 = 1 | Bruts IA: [RESULT] 1  = [RESULT] 1  = [RESULT] 2  = [RESULT] 2  = -> Capturé: 1
+[✅] Test 057/100 | 1 + 9 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 1 [RESULT] 1  = [RESULT] 1   0 -> Capturé: 10
+[✅] Test 058/100 | 2 + 8 = 10 | Bruts IA: [RESULT] 1 0  = [RESULT] 5  = [RESULT] 7  = [RESULT] 1 0 -> Capturé: 10
+[✅] Test 059/100 | 7 + 4 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 8  = [RESULT] 1 0   [RESULT] 9 -> Capturé: 11
+[✅] Test 060/100 | 6 + 8 = 14 | Bruts IA: [RESULT] 1 4  = [RESULT] 1 [RESULT] 1    [RESULT] 1 -> Capturé: 14
+[✅] Test 061/100 | 3 + 0 = 3 | Bruts IA: [RESULT] 3  = [RESULT] 4  = [RESULT] 5  = [RESULT] 7  = -> Capturé: 3
+[✅] Test 062/100 | 3 + 9 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 1 [RESULT] 1  [RESULT] 6  0 -> Capturé: 12
+[✅] Test 063/100 | 5 + 6 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 8  = [RESULT] 1 0  [RESULT] 8 -> Capturé: 11
+[✅] Test 064/100 | 4 + 8 = 12 | Bruts IA: [RESULT] 1 2  = [RESULT] 1 [RESULT] 6  = [RESULT] 1 0 -> Capturé: 12
+[✅] Test 065/100 | 8 + 8 = 16 | Bruts IA: [RESULT] 1 6  = [RESULT] 1 5  = [RESULT] 1 3  = [RESULT] -> Capturé: 16
+[✅] Test 066/100 | 1 + 2 = 3 | Bruts IA: [RESULT] 3  = [RESULT] 4  = [RESULT] 5  = [RESULT] 6  = -> Capturé: 3
+[✅] Test 067/100 | 0 + 4 = 4 | Bruts IA: [RESULT] 4  = [RESULT] 4  = [RESULT] 4    = [RESULT] 4 -> Capturé: 4
+[✅] Test 068/100 | 2 + 1 = 3 | Bruts IA: [RESULT] 3  = [RESULT] 4  = [RESULT] 5  = [RESULT] 7  = -> Capturé: 3
+[✅] Test 069/100 | 3 + 2 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 7  = [RESULT] 1 0    = [RESULT] -> Capturé: 5
+[✅] Test 070/100 | 4 + 1 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 8  = [RESULT] 1 0     = -> Capturé: 5
+[✅] Test 071/100 | 8 + 1 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 3  = [RESULT] 1 2 [RESULT] 1 0 -> Capturé: 9
+[✅] Test 072/100 | 1 + 4 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 6 [RESULT] 8  = [RESULT] 1 0 -> Capturé: 5
+[✅] Test 073/100 | 0 + 6 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 6 [RESULT] 7  = [RESULT] 8    = -> Capturé: 6
+[✅] Test 074/100 | 2 + 3 = 5 | Bruts IA: [RESULT] 5  = [RESULT] 7  = [RESULT] 9     = [RESULT] -> Capturé: 5
+[✅] Test 075/100 | 6 + 3 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 2  = [RESULT] 1 0 [RESULT] 9 -> Capturé: 9
+[✅] Test 076/100 | 3 + 4 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0   = [RESULT] 8   = [RESULT] -> Capturé: 7
+[✅] Test 077/100 | 4 + 3 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0  = [RESULT] 6   = [RESULT] 8 -> Capturé: 7
+[✅] Test 078/100 | 8 + 3 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 8  = [RESULT] 1 0 [RESULT] 9 -> Capturé: 11
+[✅] Test 079/100 | 1 + 6 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 9  = [RESULT] 1 0  = [RESULT] 8 -> Capturé: 7
+[✅] Test 080/100 | 0 + 8 = 8 | Bruts IA: [RESULT] 8  = [RESULT] 9  = [RESULT] 1 1  = [RESULT] 9 -> Capturé: 8
+[✅] Test 081/100 | 2 + 5 = 7 | Bruts IA: [RESULT] 7  = [RESULT] 1 0   = [RESULT] 7  = [RESULT] 9 -> Capturé: 7
+[✅] Test 082/100 | 6 + 5 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 8  = [RESULT] 1 0  [RESULT] 8 -> Capturé: 11
+[✅] Test 083/100 | 4 + 5 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 2 [RESULT] 1 [RESULT] 9    [RESULT] -> Capturé: 9
+[✅] Test 084/100 | 8 + 5 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1 0 [RESULT] 8  = [RESULT] 1 0 -> Capturé: 13
+[✅] Test 085/100 | 9 + 4 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1 2  = [RESULT] 1 0 [RESULT] 8 -> Capturé: 13
+[✅] Test 086/100 | 0 + 1 = 1 | Bruts IA: [RESULT] 1  = [RESULT] 1  = [RESULT] 1  = [RESULT] 1  = -> Capturé: 1
+[✅] Test 087/100 | 2 + 7 = 9 | Bruts IA: [RESULT] 9  = [RESULT] 1 1 [RESULT] 9  = [RESULT] 1 1 [RESULT] -> Capturé: 9
+[✅] Test 088/100 | 6 + 7 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1 [RESULT] 9   = [RESULT] 1 2 -> Capturé: 13
+[✅] Test 089/100 | 7 + 6 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1   [RESULT] 1 -> Capturé: 13
+[✅] Test 090/100 | 4 + 7 = 11 | Bruts IA: [RESULT] 1 1  = [RESULT] 8  = [RESULT] 1 0  [RESULT] 8 -> Capturé: 11
+[✅] Test 091/100 | 5 + 8 = 13 | Bruts IA: [RESULT] 1 3  = [RESULT] 1 [RESULT] 1    [RESULT] 9 -> Capturé: 13
+[✅] Test 092/100 | 8 + 7 = 15 | Bruts IA: [RESULT] 1 5  = [RESULT] 1 4  = [RESULT] 1 3   = -> Capturé: 15
+[✅] Test 093/100 | 1 + 1 = 2 | Bruts IA: [RESULT] 2 [RESULT] 3  = [RESULT] 4  = [RESULT] 5   = -> Capturé: 2
+[✅] Test 094/100 | 0 + 3 = 3 | Bruts IA: [RESULT] 3  = [RESULT] 3  = [RESULT] 3  = [RESULT] 3 -> Capturé: 3
+[✅] Test 095/100 | 9 + 6 = 15 | Bruts IA: [RESULT] 1 5  = [RESULT] 1 4  = [RESULT] 1 3  = [RESULT] -> Capturé: 15
+[✅] Test 096/100 | 2 + 0 = 2 | Bruts IA: [RESULT] 2  = [RESULT] 3  = [RESULT] 4  = [RESULT] 5  = -> Capturé: 2
+[✅] Test 097/100 | 2 + 9 = 11 | Bruts IA: [RESULT] 1 1 [RESULT] 1 [RESULT] 6  = [RESULT] 1 0   [RESULT] -> Capturé: 11
+[✅] Test 098/100 | 6 + 0 = 6 | Bruts IA: [RESULT] 6  = [RESULT] 9  = [RESULT] 1 1 [RESULT] 1 -> Capturé: 6
+[✅] Test 099/100 | 6 + 9 = 15 | Bruts IA: [RESULT] 1 5  = [RESULT] 1 4 [RESULT] 1 [RESULT] 1   [RESULT] -> Capturé: 15
+[✅] Test 100/100 | 7 + 8 = 15 | Bruts IA: [RESULT] 1 5  = [RESULT] 1 3 [RESULT] 1   [RESULT] 1 -> Capturé: 15
+
+============================================================
+🎯 VRAIE ACCURACY DU MODÈLE DIRECT : 98.0%
+============================================================
